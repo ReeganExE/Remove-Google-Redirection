@@ -14,6 +14,10 @@ Download from Github: [Remove Google Redirection for Safari](https://github.com/
 
 * Google Chrome:
 
+(Only `https://www.google.com.vn/` permission) Download from Google Chrome Webstore: [Remove Google Redirection for Google Chrome](https://chrome.google.com/webstore/detail/remove-google-redirection/efjogckeagaidmhekgdfgdlaihpondbp)
+
+* Google Chrome:
+
 Download from Google Chrome Webstore: [Remove Google Redirection for Google Chrome](https://chrome.google.com/webstore/detail/remove-google-redirection/dnhjklgpiifbofihffldllbcopkinlod)
 
 * Mozilla Firefox:
