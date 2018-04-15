@@ -5,16 +5,19 @@ Prohibit click-tracking, and prevent url redirection when clicks on the result l
 
 Script homepage: [English](http://kodango.com/remove-google-redirection) or [Chinese](http://kodango.com/remove-google-redirection-extension)
 
-Browser Support
+Less permission
+===============
+
+![https://www.google.com.vn](https://user-images.githubusercontent.com/7277418/38774473-3083c0b8-4094-11e8-9de5-47b93a5ba3d5.png)
+
+https://chrome.google.com/webstore/detail/remove-google-redirection/efjogckeagaidmhekgdfgdlaihpondbp
+
+The original one
 ===============
 
 * Apple Safari
 
 Download from Github: [Remove Google Redirection for Safari](https://github.com/dangoakachan/Remove-Google-Redirection/raw/master/extension/safari/remove-google-redirection.safariextz)
-
-* Google Chrome:
-
-(Only `https://www.google.com.vn/` permission) Download from Google Chrome Webstore: [Remove Google Redirection for Google Chrome](https://chrome.google.com/webstore/detail/remove-google-redirection/efjogckeagaidmhekgdfgdlaihpondbp)
 
 * Google Chrome:
 
